@@ -25,8 +25,7 @@ This repository serves as a portfolio artifact to demonstrate hands-on SQL pract
 
 I received a Certificate of Completion from Interview Master for finishing all 24 days of the SQL Advent Calendar 2024.
 
-![iamge alt](https://github.com/mikealfaro24/sql-advent-calendar-solutions/blob/bed46b757dbc463d2212e63b7080be930587e187/Interview_Master_SQL_Advent_Certificate_Mike_Alfaro.pdf)
-
+![SQL Advent Calendar Certificate](Interview_Master_SQL_Advent_Certificate_Mike_Alfaro.pdf)
 ## Credits
 
 Challenge created and hosted by **Interview Master**  
